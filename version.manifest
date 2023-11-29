@@ -4,7 +4,7 @@
     "assets": {
     },
     "remoteVersionUrl": "https://jouncaro.net/m/version.manifest",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engineVersion": "3.17",
     "remoteManifestUrl": "https://jouncaro.net/m/project.manifest"
 }
