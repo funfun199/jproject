@@ -1,10 +1,10 @@
 {
-    "packageUrl": "https://covi21.lat/m/",
+    "packageUrl": "https://jouncaro.net/m/",
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "https://covi21.lat/m/version.manifest",
+    "remoteVersionUrl": "https://jouncaro.net/m/version.manifest",
     "version": "1.0.0",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://covi21.lat/m/project.manifest"
+    "remoteManifestUrl": "https://jouncaro.net/m/project.manifest"
 }
