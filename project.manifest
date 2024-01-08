@@ -3,8 +3,8 @@
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "https://resources.joun88.casino/m/version.manifest",
+    "remoteVersionUrl": "https://resources.joun88.casino/m/version.manifest?v=1.0.1",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://resources.joun88.casino/m/project.manifest"
+    "remoteManifestUrl": "https://resources.joun88.casino/m/project.manifest?v=1.0.1"
 }
