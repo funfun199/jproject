@@ -3,8 +3,8 @@
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "https://resources.webet777.me/m/version.manifest?v=1.0.1",
+    "remoteVersionUrl": "https://resources.webet777.me/m/version.manifest",
     "version": "1.0.1",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "https://resources.webet777.me/m/project.manifest?v=1.0.1"
+    "remoteManifestUrl": "https://resources.webet777.me/m/project.manifest"
 }
